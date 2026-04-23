@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculadora de Aposentadoria</string>
+    <string name="hint_idade">Digite sua idade</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="resultado_formato">Faltam %d anos para você se aposentar.</string>
+    <string name="ja_aposentado">Você já deveria estar aposentado.</string> <string name="nome_aluno">Cauã Rosa</string>
+</resources>
